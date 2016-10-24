@@ -34,5 +34,5 @@ people.forEach(function(person,index){
 
 console.log('the people less than 30 are');
 console.log(younger);
-console.log('the people are not less than 30 are');
+console.log('the people not less than 30 are');
 console.log(older);
